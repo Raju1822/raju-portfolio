@@ -1,0 +1,106 @@
+{
+  "name": "Raju Sahu",
+  "role": "Software Engineer",
+  "title": "Full-Stack (React, Node.js, SQL)",
+  "location": "Gurugram, India",
+  "summary": "Full-stack Software Engineer experienced in building scalable web apps using React.js, Node.js, and SQL Server. Focused on secure REST APIs, data visualization, file uploads, and PDF generation.",
+  "contact": {
+    "email": "rajusahu2n23@gmail.com",
+    "phone": "9399217325",
+    "linkedin": "https://www.linkedin.com/in/raju-sahu-3baa95176/",
+    "github": "https://github.com/Raju1822"
+  },
+  "skills": [
+    "JavaScript (ES6+)",
+    "React.js",
+    "Node.js",
+    "SQL",
+    "MS SQL Server",
+    "PostgreSQL",
+    "MySQL",
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "RESTful APIs",
+    "Git",
+    "Chart.js",
+    "PDFKit",
+    "Multer",
+    "CI/CD"
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "Optum (UnitedHealth Group)",
+      "period": "Jun 2023 \u2013 Present",
+      "bullets": [
+        "Built and maintained full-stack web apps using Node.js, React.js, and SQL Server.",
+        "Designed secure REST APIs and implemented SQL transactions for reliability.",
+        "Added file uploads, dynamic PDF generation, and dashboards with Chart.js.",
+        "Worked in Agile teams, ensuring delivery and best practices."
+      ]
+    },
+    {
+      "role": "Technology Development Program (TDP)",
+      "company": "Optum (UnitedHealth Group)",
+      "period": "Jun 2022 \u2013 Jun 2023",
+      "bullets": [
+        "SQL-based reporting and automation with Python/Power BI.",
+        "Migrated legacy reports and used GitHub for version control."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Team Productivity Platform",
+      "desc": "Manage tasks, skills, leave requests, and performance reviews.",
+      "stack": [
+        "Node.js",
+        "React.js",
+        "SQL Server",
+        "Multer",
+        "PDFKit",
+        "Chart.js"
+      ],
+      "highlights": [
+        "30+ REST APIs with auth and SQL transactions.",
+        "File uploads and dynamic PDF certificate generation.",
+        "Role-based routing with responsive dashboards."
+      ],
+      "link": "https://github.com/Raju1822/myapp"
+    },
+    {
+      "name": "Portfolio Website",
+      "desc": "Responsive personal portfolio using HTML/CSS/JS.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "highlights": [
+        "Clean UI and responsive design"
+      ],
+      "link": "https://github.com/Raju1822/I-m-RS"
+    }
+  ],
+  "education": [
+    {
+      "school": "National Institute of Technology, Raipur",
+      "degree": "B.Tech - Computer Science & Engineering",
+      "period": "2018 - 2022",
+      "grade": "9.14/10"
+    },
+    {
+      "school": "HSM Global Public H S School, Bilaspur",
+      "degree": "Class 12th",
+      "period": "2016 - 2017",
+      "grade": "93.80%"
+    },
+    {
+      "school": "Govt H S School Nariyara Sakti",
+      "degree": "Class 10th",
+      "period": "2015",
+      "grade": "91.84%"
+    }
+  ]
+}
