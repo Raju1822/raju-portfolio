@@ -35,7 +35,7 @@ const App = () => {
         <section id='education' className='my-4'>
           <Education list={profile.education} />
         </section>
-        <section id='resume' className='my-4'>
+        <section id='resume' className='my-4 overflow-auto'>
           <ResumeViewer />
         </section>
         <section id='contact' className='my-4'>
